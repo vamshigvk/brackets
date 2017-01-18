@@ -1,0 +1,48 @@
+1{
+    display: block;
+    padding-left: 100px;
+}
+
+
+
+div{
+     padding-bottom: 60px;
+    margin-left: 300;
+    margin-bottom: 25px;
+}
+
+
+.2 ul,img{
+ display: inline-block;   
+    padding-right: 30px;
+}
+
+body{
+    background-color: ghostwhite;
+}
+    
+
+    ul {
+    display: inline-block;
+    list-style-type:none;
+    margin: 0;
+    padding: 10px;
+    width: 110px;
+    background-color: antiquewhite;
+    
+}   
+
+li a {
+    display: block;
+    color: whitesmoke;
+    background-color: slategray;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+  

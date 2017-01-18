@@ -1,0 +1,26 @@
+
+header,footer{
+background-color: antiquewhite;
+    color: black;
+    
+    text-align: center;
+}
+
+article{
+    
+    padding: 1px;
+    border-left: 1px solid black;
+    margin-left: 140px;
+    border-right: 1px solid black;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav{
+    float: left;
+    padding: 10px;
+}
