@@ -1,0 +1,17 @@
+body{
+    background-image: url("http://png.clipart.me/previews/0cd/red-heart-valentines-day-card-background-vector-21753.jpg");
+    
+}
+img{
+  float: right;
+}
+a{
+    text-align: center;
+    clear: left;
+    font-size: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: whitesmoke;
+
+}
+
