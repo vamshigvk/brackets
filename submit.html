@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Verification</title>
+    <p id="demo">HI! Enter your details.</p>
+<script type="text/javascript">
+    
+    function submit()
+    {
+        var a=document.getElementById("username").value;
+        var b=document.getElementById("password").value;
+        var a1=parseInt(a);
+        var b1=parseInt(b);
+        if((a1=='1351')&&(b1=='1351'||'2512'))
+        {
+            document.write("click me" );
+             window.location.href = "https://vamshigvk.github.io/brackets/";
+        }
+        else
+        {
+            document.write("Enter correct password !! login failed ..!");
+        }
+    }
+</script>
+</head>
+
+    
+    
+    
+    <body background="http://www.traemcneely.com/wp-content/uploads/2011/09/wpid-000033881.jpg">
+<form action="">
+Username: <input id="username" type="text" name="user"><br>
+Password: <input id="password" type="password" name="password">
+</form>
+<button type="submit" onclick="submit()">submit</button>
+</body>
